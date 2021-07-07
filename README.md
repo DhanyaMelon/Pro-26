@@ -1,2 +1,1 @@
-# Pro-26
-EPIC ARCHERY stage 3
+# Project Template 26
